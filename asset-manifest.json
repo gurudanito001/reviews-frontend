@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reviews-frontend/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/reviews-frontend/static/js/main.87d070c7.chunk.js",
+    "main.js.map": "/reviews-frontend/static/js/main.87d070c7.chunk.js.map",
+    "runtime-main.js": "/reviews-frontend/static/js/runtime-main.28ee5348.js",
+    "runtime-main.js.map": "/reviews-frontend/static/js/runtime-main.28ee5348.js.map",
+    "static/css/2.43b2b750.chunk.css": "/reviews-frontend/static/css/2.43b2b750.chunk.css",
+    "static/js/2.4dc91b13.chunk.js": "/reviews-frontend/static/js/2.4dc91b13.chunk.js",
+    "static/js/2.4dc91b13.chunk.js.map": "/reviews-frontend/static/js/2.4dc91b13.chunk.js.map",
+    "static/js/3.cfa3e251.chunk.js": "/reviews-frontend/static/js/3.cfa3e251.chunk.js",
+    "static/js/3.cfa3e251.chunk.js.map": "/reviews-frontend/static/js/3.cfa3e251.chunk.js.map",
+    "index.html": "/reviews-frontend/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/reviews-frontend/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/reviews-frontend/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4dc91b13.chunk.js.LICENSE.txt": "/reviews-frontend/static/js/2.4dc91b13.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/reviews-frontend/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ee5348.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.4dc91b13.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.87d070c7.chunk.js"
+  ]
+}
